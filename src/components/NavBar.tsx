@@ -9,7 +9,7 @@ const Navbar = () => {
     }}>
       <div className=" container mx-auto flex justify-between items-center">
       <img //adding a little bit of pizzaz with the image
-          src="/pokemon-ball.png"
+          src="/Assignment2_Pokedex/pokemon-ball.png"
           style={{ 
             width: '50px',
             height: 'auto',
